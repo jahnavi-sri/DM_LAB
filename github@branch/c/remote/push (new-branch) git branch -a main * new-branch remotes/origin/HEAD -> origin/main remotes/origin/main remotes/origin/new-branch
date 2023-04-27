@@ -1,0 +1,7 @@
+github@branch/c/remote/push (new-branch)
+git branch -a
+main
+* new-branch
+remotes/origin/HEAD -> origin/main
+remotes/origin/main
+remotes/origin/new-branch
